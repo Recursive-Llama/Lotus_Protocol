@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Memory bank
+memory-bank/
+
+# Local puzzle memory and user state
+ψ_cores/puzzle_memory.json
+ψ_cores/ψ_extractions.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp 
